@@ -1,8 +1,3 @@
-This processor is designed by 
-Yang Xu yx248
-Jingzhi Zhao jz422
-Mengyao Zhang mz215
-
 #freqdiv.v
 To implement this processor, we first built two clock_dividers, one to devide the given clock by 2, one by 4.
 
